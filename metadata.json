@@ -1,0 +1,8 @@
+{
+  "name": "JsonUI Studio",
+  "description": "A web-based IDE and simulator for the JsonUI embedded framework. Build, visualize, and generate UI configurations using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
